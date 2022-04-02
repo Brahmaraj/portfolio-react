@@ -398,3 +398,16 @@ body{
     font-size: 18px;
     margin: 10px 0 0 0;
 }
+
+.contact_send_button{
+    width: 70%;
+    margin-top: 20px;
+    height: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #FCA738;
+    border: 1px solid #FCA738;
+    cursor: pointer;
+    border-radius: 10px;
+}
+

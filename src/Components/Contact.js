@@ -46,6 +46,7 @@ const Contact = () => {
                         <textarea style={{height:"60px"}} className="form_input" required placeholder="type message"/>
                     </label>
                     </div>
+                    <button className="contact_send_button">Send Message</button>
                 </div>
             </div>
         </div>
