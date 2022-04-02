@@ -121,6 +121,7 @@ body{
     border-radius: 8px;
     color: white;
     z-index: 1;
+    cursor: pointer;
 }
 
 .home_button_blue{
@@ -262,7 +263,7 @@ body{
 
 .portfolio_content{
     display: grid;
-    grid-template-columns: 350px 350px 350px 350px;
+    grid-template-columns: 350px 350px 350px 350px 350px;
     overflow-x: scroll;
     background-color: #fff;
     border-radius: 50px;
