@@ -352,8 +352,17 @@ body{
     margin-top: 50px;
 }
 
+.contact_para{
+    font-family: 'Noto Sans', sans-serif;
+}
+
 .contact_form_container{
     display: flex;
+}
+
+.contact_grey_text{
+    color: grey;
+    line-height: 50px;
 }
 
 .contact_details{
