@@ -12,7 +12,7 @@ const Home = () => {
                 <div className="home_para">Turning your imagination into website</div>
                 <div className="home_buttons">
                     <a href="mailto:brahmarajrathod@gmail.com?subject=Interested in hiring you"><button className="home_button home_button_blue">Hire Me</button></a>
-                    <a href="https://drive.google.com/file/d/10GNK8rjlSLQMqLQTSn0FpigLj6Bs0Oqj/view?usp=sharing"><button className="home_button home_button_yellow" >Get Resume</button></a>
+                    <a href="https://drive.google.com/file/d/1EhC4rhtkzgBVnwiCa9IGyFefyc0o_GNe/view?usp=share_link"><button className="home_button home_button_yellow" >Get Resume</button></a>
                 </div>
             </div>
             <div className="home_image_container">
